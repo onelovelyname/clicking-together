@@ -259,7 +259,7 @@ body {
   }
 }
 #fh5co-header #fh5co-logo {
-  text-align: center;
+  text-align: left;
   display: block;
   position: absolute;
   width: 100%;
@@ -393,8 +393,8 @@ body {
   }
 }
 #fh5co-hero .fh5co-intro > div h2 {
-  font-size: 70px;
-  line-height: 87px;
+  font-size: 50px;
+  line-height: 67px;
   font-weight: 100;
   color: white;
 }
